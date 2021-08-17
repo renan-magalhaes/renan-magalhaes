@@ -1,5 +1,5 @@
 # Hi there 👋
-
+  
 ## About me
 My name is Renan Magalhães, I'm a Physics PhD student at Federal University of Pará in Brazil and member of Grav@Zon.
 
@@ -17,3 +17,4 @@ Machine learning
 e-mail:
 - rbmagalhaes22@hotmail.com
 - renan.magalhaes@icen.ufpa.br
+    
