@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**renan-magalhaes/renan-magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+My name is Renan Magalhães, I'm a Physics PhD student at Federal University of Pará in Brazil and member of Grav@Zon.
 
-Here are some ideas to get you started:
+## My interests
+Black hole physics
+- Absorption and scattering of fundamental fields by black holes
+- Quasinormal modes and Regge Poles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alternative theories of gravity
+- Analytical methods to find solutions
+
+Machine learning
+
+## How to reach me
+e-mail:
+- rbmagalhaes22@hotmail.com
+- renan.magalhaes@icen.ufpa.br
